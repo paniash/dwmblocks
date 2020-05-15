@@ -8,7 +8,7 @@ static const Block blocks[] = {
     { "  ",       "dwm_brightness",     1,                     9},
     /* { " ",       "dwm_news",          0,                     6}, */
     { " ",       "dwm_cpu",          10,                     13},
-    { "",     "dwm_network",         5,                      4},
+    /* { "",     "dwm_network",         5,                      4}, */
     { "",       "dwm_memory",          10,                     14},
     /* { "",     "dwm_internet",         5,                      4}, */
     { " ",       "dwm_battery",       20,                     0},
