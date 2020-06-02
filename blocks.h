@@ -9,7 +9,7 @@ static const Block blocks[] = {
     { "",     "dwm_mail",         180,                      12},
     /* { "",       "dwm_news",          180,                     6}, */
     { " ",       "dwm_cpu",          10,                     13},
-    /* { "",       "dwm_nettraf",       1,                     16}, */
+    /* { "",       "dwm_nettraf",       5,                     16}, */
     { "",       "dwm_memory",          10,                     14},
     /* { "",     "dwm_internet",         5,                      4}, */
     { " ",       "dwm_battery",       20,                     0},
