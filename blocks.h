@@ -2,9 +2,9 @@
 static const Block blocks[] = {
 	/*Icon*/	/*Command*/		/*Update Interval*/	/*Update Signal*/
     { "",       "music",        0,                   11},
-    /* { "",       arch_update",     1800,                   8}, */
+    /* { "",       "arch_update",     1800,                   8}, */
     { " ",       "volume",        0,                   10},
-    /* { "",       weather",       1800,                   5}, */
+    /* { "",       "weather",       1800,                   5}, */
     { "",       "brightness",     0,                     9},
     { "",     "nmail",         180,                      12},
     /* { "",     "torrent",         20,                      7}, */
