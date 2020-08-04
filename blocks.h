@@ -2,7 +2,7 @@
 static const Block blocks[] = {
 	/*Icon*/	/*Command*/		/*Update Interval*/	/*Update Signal*/
     { "",       "music",        0,                   11},
-    { "",     "temp",         3600,                      21},
+    /* { "",     "temp",         2700,                      21}, */
     /* { "",       "arch_update",     1800,                   8}, */
     { "",       "volume",        0,                   10},
     /* { "",       "duptime",        600,                   19}, */
@@ -12,7 +12,7 @@ static const Block blocks[] = {
     /* { "",     "torrent",         20,                      7}, */
     /* { "",       "news",          180,                     6}, */
     { "",       "cpu",          10,                     13},
-    /* { "",       "nettraf",       5,                     16}, */ 
+    /* { "",       "nettraf",       5,                     16}, */
     { "",       "memory",          10,                     14},
     /* { "",     "internet",         5,                      4}, */
     { "",       "battery",       20,                     9},
