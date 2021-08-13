@@ -1,10 +1,12 @@
-#include<stdlib.h>
-#include<stdio.h>
-#include<string.h>
-#include<unistd.h>
-#include<signal.h>
+#include <stdlib.h>
+#include <stdio.h>
+#include <string.h>
+#include <unistd.h>
+#include <time.h>
+#include <errno.h>
+#include <signal.h>
 #ifndef NO_X
-#include<X11/Xlib.h>
+#include <X11/Xlib.h>
 #endif
 #ifdef __OpenBSD__
 #define SIGPLUS			SIGUSR1+1
